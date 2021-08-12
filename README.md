@@ -1,2 +1,2 @@
 # hello-world
-Noob to GitHub repository. 
+GitHub noob repository. 
