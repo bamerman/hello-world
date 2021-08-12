@@ -1,5 +1,3 @@
 # hello-world
 
-My name's Brendan, but my pen name's Do0ly. 
-
-I'm a technical writer, and I love learning about new technologies and meticulously documenting them. 
+This is my first repository. I'm excited integrate my technical writing work with GitHub! 
